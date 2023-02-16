@@ -16,7 +16,8 @@ An iOS weather application built with Swift and SwiftUI in Xcode using the OpenW
 
 To run this application, you will need to have the following software installed on your MacOS operating system:
 
-- Xcode
+- Xcode <img align="left" alt="XCode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xcode/xcode-original.svg" />
+
 
 ### Installation
 
