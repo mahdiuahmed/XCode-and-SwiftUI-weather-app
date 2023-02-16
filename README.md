@@ -14,7 +14,7 @@ An iOS weather application built with Swift and SwiftUI in Xcode using the OpenW
 
 ### Prerequisites
 
-To run this application, you will need to have the following software installed on your MacOS operating system `*note : development of this project will not work on non-apple devices` :
+To run this application, you will need to have the following software installed on your MacOS operating system:
 
 - Xcode
 
