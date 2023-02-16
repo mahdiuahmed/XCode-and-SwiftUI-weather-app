@@ -25,8 +25,7 @@ To run this application, you will need to have the following software installed 
 $ git clone https://github.com/mahdiuahmed/XCode-and-SwiftUI-weather-app.git
 ```
 2. Create an account on [OpenWeatherMap](https://openweathermap.org/api) and obtain an API key.
-3. Add the API key to the `WeatherService.swift` file.
-4. Build and run the project in Xcode.
+3. Build and run the project in Xcode.
 
 ## 📝 Usage
 
